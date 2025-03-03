@@ -1,7 +1,7 @@
 # assignment-6
 **Package Title** ggplot2
 
-**Location:** ggplot2 is available on CRAN, is part of tidyverse, and can be installed with: install.packages("ggplot2")
+**Location** ggplot2 is available on CRAN, is part of tidyverse, and can be installed with: install.packages("ggplot2")
 You can also find it on GitHub at: https://github.com/tidyverse/ggplot2
 
 **Vignette(s)**
